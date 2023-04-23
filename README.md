@@ -6,7 +6,8 @@
 
 - 📫 How to reach me **ankitarnav201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NU3X0bAFV_i7EjhPYxjLzQB2rNcOB39E/view?usp=share_link](https://drive.google.com/file/d/1NU3X0bAFV_i7EjhPYxjLzQB2rNcOB39E/view?usp=share_link)
+- 📄 Know about my experiences -<a href="https://drive.google.com/file/d/1NU3X0bAFV_i7EjhPYxjLzQB2rNcOB39E/view?usp=share_link"><img src="https://flic.kr/p/2ovfabS="Resume"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
