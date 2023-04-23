@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ankitarnav201@gmail.com**
 
-- 📄 Know about my experiences -<a href="https://drive.google.com/file/d/1NU3X0bAFV_i7EjhPYxjLzQB2rNcOB39E/view?usp=share_link" target="blank"><img align="center" src="https://github.com/DastaN19/DastaN19/blob/main/resumeicon.jpg" alt="ankit arnav" height="30" width="40" /></a>
+- 📄 Know about my experiences -   <a href="https://drive.google.com/file/d/1NU3X0bAFV_i7EjhPYxjLzQB2rNcOB39E/view?usp=share_link" target="blank"><img align="center" src="https://github.com/DastaN19/DastaN19/blob/main/resumeicon.jpg" alt="ankit arnav" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
